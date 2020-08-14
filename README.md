@@ -1,2 +1,3 @@
 # Read_text_file
-Print email id's
+* Python code to print email id's (those id's who is in the line which starts from "From :")
+* Without use of regular expression code.
